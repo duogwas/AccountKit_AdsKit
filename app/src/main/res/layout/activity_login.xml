@@ -21,5 +21,6 @@
         android:layout_height="wrap_content"
         android:text="HUAWEI ID"
         android:textSize="20sp"
-        android:layout_below="@+id/tv_SignIn" />
+        android:layout_below="@+id/tv_SignIn"
+        android:textColor="@color/black"/>
 </RelativeLayout>
